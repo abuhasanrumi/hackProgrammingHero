@@ -80,10 +80,9 @@ function markMilestone(checkbox, id) {
     doneList.removeChild(item)
   }
 
-  // sorting
-
-  id.sort()
 }
+
+
 
 
 loadMilestones()
